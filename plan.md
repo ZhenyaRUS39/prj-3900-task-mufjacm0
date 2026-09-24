@@ -1,0 +1,1 @@
+Задача декомпозирована: 1 subtask для developer (index.html + style.css с Hello World), затем автотест.
